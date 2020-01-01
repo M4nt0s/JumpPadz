@@ -7,7 +7,7 @@ Informationen zum Plugin:
 - Block kann derzeit nicht geändert werden.
 - Sprunghöhe kann derzeit nicht geändert werden.
 
-- Block: Slimeblock -> ID: 165
+- Block: Schwamm -> ID: 19
 - Welt: jumppadz
 - Sprunghöhe: ca. 6 Blöcke
 
@@ -19,6 +19,6 @@ Information about the plugin:
 - Block cannot currently be changed.
 - The jump height cannot currently be changed.
 
-- Block: Slimeblock -> ID: 165
+- Block: Sponge -> ID: 19
 - World: jumppadz
 - Jump height: approx. 6 blocks

@@ -38,7 +38,7 @@ class Main extends PluginBase implements Listener{
                                 $id = $block->getId();
                                 $meta = $block->getDamage();
 
-                                if($id == 165){
+                                if($id == 19){
 
                                         $jumpHeight = 30;
                                         $height = ($jumpHeight - $y) / 10;

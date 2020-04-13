@@ -42,7 +42,7 @@ class Main extends PluginBase implements Listener{
 
                                         $jumpHeight = 30;
                                         $height = ($jumpHeight - $y) / 10;
-                                        $player->setMotion(new Vector3(0, 1, 0));8
+                                        $player->setMotion(new Vector3(0, 1, 0));
                                 }
                         }
                 }

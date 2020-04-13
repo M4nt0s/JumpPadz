@@ -3,7 +3,7 @@
 namespace JumpPadz;
 
 use pocketmine\Player;
-use pocketmine\event\EventListener;
+use pocketmine\event\Listener;
 use pocketmine\entity\Effect;
 use pocketmine\plugin\PluginBase;
 use pocketmine\level\Level;

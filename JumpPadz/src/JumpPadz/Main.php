@@ -31,7 +31,7 @@ class Main extends PluginBase implements Listener{
                 $player = $event->getPlayer();
                 $y = $player->getY();
                 $block = $event->getPlayer()->getLevel()->getBlock($event->getPlayer()->floor()->subtract(0, 1));
-                if($player->getLevel()->getName() == "jumppadz"){
+                if($player->getLevel()->getName() == $player.>getLevel()->getName()){
 
                         if(block instanceof Block){
                                 
